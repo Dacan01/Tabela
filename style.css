@@ -1,0 +1,30 @@
+.moda{
+    font-size: 25px;
+    background-color: #bb86fc;
+    color: aliceblue;
+}
+.informacoes-roupas,.produtos-casa{
+    font-size: 20px;
+    text-align: center;
+    color: aliceblue;
+ }
+
+ .casa{
+     font-size: 25px;
+     background-color:#00c4b4 ;
+     color: aliceblue;
+ }
+
+ td{
+     background-color: #424250;
+     border: 2px;
+     margin: 2px;
+     padding:10px;
+
+ }
+ th{
+     border: 2px;
+     margin: 2px;
+     padding: 10px;
+
+ }
